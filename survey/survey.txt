@@ -1,0 +1,475 @@
+BASE: ALL RESPONDENTS
+Q1. Are you a U.S. citizen?
+1. Yes
+2. No [TERMINATE]
+BASE: ALL RESPONDENTS
+Q2. In your view, how important are each of the following to being a good American?\n
+Randomize
+Q2. In your view, how important are each of the following to being a good American?\n
+1. Voting in elections
+Q2. In your view, how important are each of the following to being a good American?\n
+2. Serving on a jury
+Q2. In your view, how important are each of the following to being a good American?
+3. Following what happens in government and politics
+Q2. In your view, how important are each of the following to being a good American?
+4. Displaying the American flag
+Q2. In your view, how important are each of the following to being a good American?
+5. Participating in the U.S. Census every ten years
+Q2. In your view, how important are each of the following to being a good American?
+6. Knowing the Pledge of Allegiance
+Q2. In your view, how important are each of the following to being a good American?
+7. Supporting the military
+Q2. In your view, how important are each of the following to being a good American?
+8. Respecting the opinions of those who disagree with you
+Q2. In your view, how important are each of the following to being a good American?
+9. Believing in God
+Q2. In your view, how important are each of the following to being a good American?
+10. Protesting if you believe government actions are wrong
+
+[Accordion grid - FLIP 1-4;4-1]
+1. Very important
+2. Somewhat important
+3. Not so important
+4. Not at all important
+BASE: ALL RESPONDENTS
+Q3. How much do you agree or disagree with the following statements?
+[RANDOMIZE LIST]
+Q3. How much do you agree or disagree with the following statements?
+1. Systemic racism is a problem in the United States.
+Q3. How much do you agree or disagree with the following statements?
+2. Systemic racism in policing is a bigger problem than violence and vandalism
+in protests.
+Q3. How much do you agree or disagree with the following statements?
+3. Society as a whole has become too soft and feminine.
+Q3. How much do you agree or disagree with the following statements?
+4. The mainstream media is more interested in making money than telling the
+truth.
+Q3. How much do you agree or disagree with the following statements?
+5. Traditional parties and politicians don’t care about people like me.
+Q3. How much do you agree or disagree with the following statements?
+6. The way people talk needs to change with the times to be more sensitive to
+people with different backgrounds.
+[Accordion grid - FLIP 1-4;4-1]
+1. Strongly agree
+2. Somewhat agree
+3. Somewhat disagree
+4. Strongly disagree
+BASE: ALL RESPONDENTS
+Q4. How much of an impact, if any, do each of the following have on your life?
+[RANDOMIZE LIST]
+Q4. How much of an impact, if any, do each of the following have on your life?
+1. Elected officials in Washington, D.C. (e.g. the president, member of
+Congress)
+Q4. How much of an impact, if any, do each of the following have on your life?
+2. Elected officials in my state (e.g. governor, state representative)
+Q4. How much of an impact, if any, do each of the following have on your life?
+3. Elected officials in my city or community (e.g. mayor, city council)
+Q4. How much of an impact, if any, do each of the following have on your life?
+4. The news media
+Q4. How much of an impact, if any, do each of the following have on your life?
+5. Large financial institutions on Wall Street
+Q4. How much of an impact, if any, do each of the following have on your life?
+6. Law enforcement and the legal system
+[Accordion grid - FLIP 1-4;4-1]
+1. A significant impact
+2. Somewhat of an impact
+3. Just a slight impact
+4. No impact at all
+BASE: ALL RESPONDENTS
+Q5. As far as making progress on the important issues facing the country, does it really
+matter who wins the 2020 presidential election, or will things be pretty much the same
+regardless of who is elected president?
+1. Who wins the election really matters
+2. Things will be pretty much the same
+BASE: ALL RESPONDENTS
+Q6. In general, how many of the people in elected office today are like you?
+FLIP SCALE
+1. A lot
+2. Some
+3. Only a few
+4. None
+BASE: ALL RESPONDENTS
+Q7. Thinking about the design and structure of American government, which would you say
+is more in line with your view?
+ROTATE RESPONSES
+1. A lot of changes are needed
+2. Changes are not really needed
+BASE: ALL RESPONDENTS
+Q8. How much would you say you trust each of the following?
+[RANDOMIZE LIST]
+Q8. How much would you say you trust each of the following?
+1. The presidency
+Q8. How much would you say you trust each of the following?
+2. Congress
+Q8. How much would you say you trust each of the following?
+3. The Supreme Court
+Q8. How much would you say you trust each of the following?
+4. The Centers for Disease Control (CDC)
+Q8. How much would you say you trust each of the following?
+5. Election officials
+Q8. How much would you say you trust each of the following?
+6. The intelligence community (e.g. FBI or CIA)
+Q8. How much would you say you trust each of the following?
+7. The news media
+Q8. How much would you say you trust each of the following?
+8. The police
+Q8. How much would you say you trust each of the following?
+9. US Postal Service
+[Accordion grid - FLIP 1-4;4-1]
+1. A lot
+2. Some
+3. Not much
+4. Not at all
+BASE: ALL RESPONDENTS
+Q9. Now, we’re going to describe various types of political systems and ask what you think
+about each as a way of governing this country?
+[RANDOMIZE LIST]
+Q9. Now, we’re going to describe various types of political systems and ask what you think
+about each as a way of governing this country?
+1. Having a democracy, where politicians are elected
+Q9. Now, we’re going to describe various types of political systems and ask what you think
+about each as a way of governing this country?
+2. Having experts, not government, make decisions according to what they think is best for
+the county
+Q9. Now, we’re going to describe various types of political systems and ask what you think
+about each as a way of governing this country?
+3. Having a strong leader who does not have to work with Congress and elections
+Q9. Now, we’re going to describe various types of political systems and ask what you think
+about each as a way of governing this country?
+4. Having the army rule
+[Accordion grid - FLIP 1-4;4-1]
+1. Very good way of governing the country
+2. Fairly good way of governing the country
+3. Fairly bad way of governing the country
+4. Very bad way of governing the country
+BASE: ALL RESPONDENTS
+Q10. Do any of the following currently apply to you?
+[RANDOMIZE LIST]
+Q10. Do any of the following currently apply to you?
+1. Receiving long-term disability
+Q10. Do any of the following currently apply to you?
+2. Have a chronic illness
+Q10. Do any of the following currently apply to you?
+3. Been unemployed for more than a year
+Q10. Do any of the following currently apply to you?
+4. Have been evicted from your home within the past year
+Banked grid
+1. Yes
+2. No
+BASE: ALL RESPONDENTS
+Q11. Since February of 2020, have any of the following things happened to you?
+[RANDOMIZE LIST]
+Q11. Since February of 2020, have any of the following things happened to you?
+1. Lost your job, either temporarily or permanently
+Q11. Since February of 2020, have any of the following things happened to you?
+2. Tested positive for COVID-19
+Q11. Since February of 2020, have any of the following things happened to you?
+3. Had a friend or family member test positive for COVID-19
+Q11. Since February of 2020, have any of the following things happened to you?
+4. Had a friend or family member die of COVID-19
+Q11. Since February of 2020, have any of the following things happened to you?
+5. Worried about how you would pay for your rent or mortgage, for groceries, or health care
+expenses
+Q11. Since February of 2020, have any of the following things happened to you?
+6. Quit your job to care for a child or family member
+Banked grid
+1. Yes
+2. No
+[SCRIPTER: RANDOMIZE ORDER OF Q14 AND Q15]
+BASE: ALL RESPONDENTS
+Q14. Based on your perceptions and experiences of the Republican Party, which is the most
+accurate description of the party’s attitude toward people like you?
+1. The Republican Party wants people like me to vote and works hard to earn
+our votes
+2. The Republican Party wants people like me to vote but does not work hard to
+earn our votes
+3. The Republican Party does not care whether or not people like me vote
+4. The Republican Party does not want people like me to vote, but does not
+work hard to keep us from voting
+5. The Republican Party does not want people like me to vote, and works hard
+to keep us from being able to vote
+BASE: ALL RESPONDENTS
+Q15. Based on your perceptions and experiences of the Democratic Party, which is the most
+accurate description of the party’s attitude toward people like you?
+1. The Democratic Party wants people like me to vote and works hard to earn
+our votes
+2. The Democratic Party wants people like me to vote but does not work hard to
+earn our votes
+3. The Democratic Party does not care whether or not people like me vote
+4. The Democratic Party does not want people like me to vote, but does not
+work hard to keep us from voting
+5. The Democratic Party does not want people like me to vote, and works hard
+to keep us from being able to vote
+BASE: ALL RESPONDENTS
+Q16. In general, how easy or difficult do you think it is to vote in national elections?
+[FLIP SCALE]
+1. Very easy
+2. Somewhat easy
+3. Somewhat difficult
+4. Very difficult
+BASE: ALL RESPONDENTS
+Q17. When thinking about a presidential election, how confident are you that each of these
+ways of voting are secure and safe from fraud?
+[RANDOMIZE LIST]
+Q17. When thinking about a presidential election, how confident are you that each of these
+ways of voting are secure and safe from fraud?
+1. In-person voting machines
+Q17. When thinking about a presidential election, how confident are you that each of these
+ways of voting are secure and safe from fraud?
+2. Paper ballots cast in person
+Q17. When thinking about a presidential election, how confident are you that each of these
+ways of voting are secure and safe from fraud?
+3. Paper ballots submitted by mail
+Q17. When thinking about a presidential election, how confident are you that each of these
+ways of voting are secure and safe from fraud?
+4. Electronic votes submitted online or by email
+[Accordion Grid SCALE: FLIP 1-4;4-1]
+1. Very confident
+2. Somewhat confident
+3. Not very confident
+4. Not at all confident
+BASE: ALL RESPONDENTS
+Q18. Have you or any members of your household ever experienced the following situations
+when trying to vote?
+[RANDOMIZE LIST]
+Q18. Have you or any members of your household ever experienced the following situations
+when trying to vote?
+1. Was told they did not have the correct identification
+Q18. Have you or any members of your household ever experienced the following situations
+when trying to vote?
+2. Could not find the polling place
+Q18. Have you or any members of your household ever experienced the following situations
+when trying to vote?
+3. Missed the voter registration deadline
+Q18. Have you or any members of your household ever experienced the following situations
+when trying to vote?
+4. Was unable to physically access the polling place
+Q18. Have you or any members of your household ever experienced the following situations
+when trying to vote?
+5. Could not obtain necessary assistance to fill out a ballot
+Q18. Have you or any members of your household ever experienced the following situations
+when trying to vote?
+6. Had to cast a provisional ballot
+Q18. Have you or any members of your household ever experienced the following situations
+when trying to vote?
+7. Couldn’t get off work to vote when polls were open
+Q18. Have you or any members of your household ever experienced the following situations
+when trying to vote?
+8. Waited in line to vote for more than an hour
+Q18. Have you or any members of your household ever experienced the following situations
+when trying to vote?
+9. Was told name was not on the list even though they were registered
+Q18. Have you or any members of your household ever experienced the following situations
+when trying to vote?
+10. Did not receive absentee or mail-in ballot in time
+Banked grid
+1. Yes
+2. No
+BASE: ALL RESPONDENTS
+Q19. Which of the following do you think would get more people to vote in national elections?
+Please choose all that apply.
+[RANDOMIZE LIST]
+Q19. Which of the following do you think would get more people to vote in national elections?
+Please choose all that apply.
+1. More outreach to ordinary Americans from candidates or elected officials
+Q19. Which of the following do you think would get more people to vote in national elections?
+Please choose all that apply.
+2. More information about the candidates from unbiased sources
+Q19. Which of the following do you think would get more people to vote in national elections?
+Please choose all that apply.
+3. Making Election Day a national holiday
+Q19. Which of the following do you think would get more people to vote in national elections?
+Please choose all that apply.
+4. Being automatically registered to vote
+Q19. Which of the following do you think would get more people to vote in national elections?
+Please choose all that apply.
+5. Automatically receiving a ballot in the mail
+Q19. Which of the following do you think would get more people to vote in national elections?
+Please choose all that apply.
+6. Being able to vote in-person before Election Day
+Q19. Which of the following do you think would get more people to vote in national elections?
+Please choose all that apply.
+7. Being able to register and vote on the same day
+Q19. Which of the following do you think would get more people to vote in national elections?
+Please choose all that apply.
+8. Being able to vote by phone or online
+Q19. Which of the following do you think would get more people to vote in national elections?
+Please choose all that apply.
+9. Having more candidates to choose from
+Q19. Which of the following do you think would get more people to vote in national elections?
+Please choose all that apply.
+Q19. Which of the following do you think would get more people to vote in national elections?
+Please choose all that apply.
+10. Other [specify] [A]
+BASE: ALL RESPONDENTS
+Q20. Are you currently registered to vote?
+1. Yes
+2. No
+BASE: ALL RESPONDENTS
+Q21. On November 3, 2020 there will be an election for president, members of the United
+States Senate, House of Representatives, and other state and local offices. Do you plan
+to vote in the November 2020 election? If you have already voted, please select ‘yes.’
+1. Yes
+2. No
+3. Unsure/Undecided
+BASE: ASK IF NO IN Q21
+Q22. You previously indicated that you are not currently registered to vote. Which of the
+following reasons best describes why you are not currently registered to vote?
+[RANDOMIZE LIST]
+1. I don’t have time to register or vote
+2. I don’t trust the political system to serve my needs
+3. I don’t know how to register
+4. I don’t want to register
+5. I am not eligible to vote [please specify why] [A]
+6. I don’t think my vote matters [A]
+7. Other [SPECIFY] [A]
+BASE: ALL RESPONDENTS
+Q23. Which presidential candidate are you planning to support?
+FLIP 1-2,2-1
+1. Donald Trump
+2. Joe Biden
+3. Unsure
+BASE: ALL RESPONDENTS
+Q24. Regardless of your current voter registration status and plans to vote (including if you
+have already voted), what would be your preferred method of voting this year?
+[RANDOMIZE 1-3]
+1. Mail-in or absentee ballot
+2. In-person before Election Day
+3. In-person on Election Day
+4. Other [please specify] [A]
+BASE: ALL RESPONDENTS
+Q25. How closely are you following the 2020 presidential race?
+[SCALE: FLIP 1-4;4-1]
+1. Very closely
+2. Somewhat closely
+3. Not very closely
+4. Not closely at all
+BASE: ALL RESPONDENTS
+Q26. Most eligible citizens don’t vote in every national election (the November general
+elections). In general, which of the following categories do you think best describes you?
+1. I always, or almost always, vote in national elections
+2. I sometimes vote in national elections
+3. I rarely vote in national elections
+4. I don’t vote
+BASE: ALL RESPONDENTS
+Q27. Thinking back to some recent elections, as best you remember, did you vote in the
+following elections?
+[FLIP LIST]
+Q27. Thinking back to some recent elections, as best you remember, did you vote in the
+following elections?
+1. The election for Congress in 2018
+Q27. Thinking back to some recent elections, as best you remember, did you vote in the
+following elections?
+2. The presidential election in 2016
+Q27. Thinking back to some recent elections, as best you remember, did you vote in the
+following elections?
+3. The election for Congress in 2014
+Q27. Thinking back to some recent elections, as best you remember, did you vote in the
+following elections?
+4. The presidential election in 2012
+Q27. Thinking back to some recent elections, as best you remember, did you vote in the
+following elections?
+5. The election for Congress in 2010
+Q27. Thinking back to some recent elections, as best you remember, did you vote in the
+following elections?
+6. The presidential election in 2008
+Banked grid
+Yes
+No
+BASE: VOTED IN Q26 (PUNCHES 1-3)
+Q28. Thinking back to the last few national elections that you voted in, which of the following
+were the most important reasons in your decision to vote? Please choose all that apply.
+[RANDOMIZE LIST]
+Q28. Thinking back to the last few national elections that you voted in, which of the following
+were the most important reasons in your decision to vote? Please choose all that apply.
+1. Voting is an important civic duty
+Q28. Thinking back to the last few national elections that you voted in, which of the following
+were the most important reasons in your decision to vote? Please choose all that apply.
+2. I was excited about one of the candidates and wanted to vote for him/her
+Q28. Thinking back to the last few national elections that you voted in, which of the following
+were the most important reasons in your decision to vote? Please choose all that apply.
+3. I disliked one of the candidates and wanted to vote against him/her
+Q28. Thinking back to the last few national elections that you voted in, which of the following
+were the most important reasons in your decision to vote? Please choose all that apply.
+4. I wanted to support the political party I identify with
+Q28. Thinking back to the last few national elections that you voted in, which of the following
+were the most important reasons in your decision to vote? Please choose all that apply.
+5. There was a specific issue I cared about, and one of the candidates was better on that
+issue
+Q28. Thinking back to the last few national elections that you voted in, which of the following
+were the most important reasons in your decision to vote? Please choose all that apply.
+6. I enjoy voting
+Q28. Thinking back to the last few national elections that you voted in, which of the following
+were the most important reasons in your decision to vote? Please choose all that apply.
+7. Voting is easy
+Q28. Thinking back to the last few national elections that you voted in, which of the following
+were the most important reasons in your decision to vote? Please choose all that apply.
+8. Other [specify] [A]
+BASE: IF SOMETIMES VOTE, RARELY VOTE OR DO NOT VOTE IN Q26 (PUNCHES 2-4)
+Q29. Thinking back to the last few national elections where you decided not to vote, which of
+the following were the most important reasons in your decision not to vote? Please
+choose all that apply.
+[RANDOMIZE LIST]
+Q29. Thinking back to the last few national elections where you decided not to vote, which of the following were the most important reasons in your decision not to vote?
+1. I didn’t like any of the candidates
+Q29. Thinking back to the last few national elections where you decided not to vote, which of the following were the most important reasons in your decision not to vote?
+2. Because of where I live, my vote doesn’t matter
+Q29. Thinking back to the last few national elections where you decided not to vote, which of the following were the most important reasons in your decision not to vote?
+3. No matter who wins, nothing will change for people like me
+Q29. Thinking back to the last few national elections where you decided not to vote, which of the following were the most important reasons in your decision not to vote?
+4. Our system is too broken to be fixed by voting
+Q29. Thinking back to the last few national elections where you decided not to vote, which of the following were the most important reasons in your decision not to vote?
+5. I wanted to vote, but I didn’t have time, couldn’t get off work, something came up, or I forgot
+Q29. Thinking back to the last few national elections where you decided not to vote, which of the following were the most important reasons in your decision not to vote?
+6. I’m not sure if I can vote
+Q29. Thinking back to the last few national elections where you decided not to vote, which of the following were the most important reasons in your decision not to vote?
+7. Nobody talks about the issues that are important to me personally
+Q29. Thinking back to the last few national elections where you decided not to vote, which of the following were the most important reasons in your decision not to vote?
+8. All the candidates are the same
+Q29. Thinking back to the last few national elections where you decided not to vote, which of the following were the most important reasons in your decision not to vote?
+9. I don’t believe in voting
+Q29. Thinking back to the last few national elections where you decided not to vote, which of the following were the most important reasons in your decision not to vote?
+10. Other [specify] [A]
+BASE: ALL RESPONDENTS
+Q30. Generally speaking, do you think of yourself as a...Select one answer only.
+ROTATE 1-2
+Q30. Generally speaking, do you think of yourself as a...Select one answer only.
+1. Republican
+Q30. Generally speaking, do you think of yourself as a...Select one answer only.
+2. Democrat
+Q30. Generally speaking, do you think of yourself as a...Select one answer only.
+3. Independent
+Q30. Generally speaking, do you think of yourself as a...Select one answer only.
+4. Another party, please specify … [O]
+Q30. Generally speaking, do you think of yourself as a...Select one answer only.
+5. No preference
+BASE: ASK IF REPUBLICAN IN Q30 (PUNCH 1)
+Q31. Would you call yourself a...
+1. Strong Republican
+Q31. Would you call yourself a...
+2. Not very strong Republican
+BASE: ASK IF DEMOCRAT IN Q30 (PUNCH 2)
+Q32. Would you call yourself a...
+1. Strong Democrat
+Q32. Would you call yourself a...
+2. Not very strong Democrat
+BASE: ASK IF INDEPENDENT, ANOTHER PARTY, HAVE NO PARTY PREFERENCE OR
+REFUSED IN Q30 (PUNCH 3-5)
+Q33. Do you think of yourself as closer to the...
+1. Republican Party
+Q33. Do you think of yourself as closer to the...
+2. Democratic Party
+VOTER_CATEGORY:
+always: respondent voted in all or all-but-one of the elections they were eligible in
+sporadic: respondent voted in at least two, but fewer than all-but-one of the elections
+they were eligible in
+rarely/never: respondent voted in 0 or 1 of the elections they were eligible in
+PPAGE: Age of respondent
+GENDER: Gender of respondent
+EDUC: Highest educational attainment category. Note: Associate’s degree is grouped in “some
+college.”
+RACE: Race of respondent, census categories. Note: all categories except Hispanic are
+non-Hispanic.
+INCOME_CAT: Household income category of respondent
+RESPID: Unique respondent ID
+WEIGHT = Weigh
