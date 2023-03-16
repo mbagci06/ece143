@@ -9,7 +9,7 @@
 #### US Census: In the readtables_2 folder
 
 * There are .xlsx files in this folder.
-* table_read.ipynb: This script contains the functions and methods to read specific .xlsx files.
+* table_read.ipynb: This script contains the functions and methods to read specific .xlsx files. Also this script is the initial script for Census dataset.
 * table_(x)_plots.ipynb: there are plots belong to table (x).
 
 ### Dataset 2
@@ -21,8 +21,10 @@
 * survey_nonvote.txt: is the dataset and it is from the link above
 * question.txt , answers_sur.txt: used to crate dictionaries
 * .pdf and survet.txt have the survey questions
+
 The folder tl_2022_us_state:
-*Contains the map information to create US map. The geopandas uses it.
+
+* Contains the map information to create US map. The geopandas uses it.
 
 Used Packages with the versions:
 
@@ -48,4 +50,3 @@ Used Packages with the versions:
 * seaborn                       0.11.2
 * sklearn                       0.0
 * sktime                        0.14.1
-
