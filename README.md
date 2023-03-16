@@ -26,6 +26,10 @@ The folder tl_2022_us_state:
 
 * Contains the map information to create US map. The geopandas uses it.
 
+### Python version
+
+* Python 3.9.11
+
 Used Packages with the versions:
 
 * geographiclib                 1.52
