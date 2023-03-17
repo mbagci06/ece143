@@ -6,7 +6,7 @@
 
 <https://www.census.gov/topics/public-sector/voting.html>
 
-#### US Census: In the readtables_2 folder
+#### US Census: In the US_census folder
 
 * There are .xlsx files in this folder.
 * table_read.ipynb: This script contains the functions and methods to read specific .xlsx files. Also this script is the initial script for Census dataset.

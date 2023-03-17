@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+"""
+The Author:
+Jianing Sun
+"""
 # In[1]:
 
 
@@ -12,13 +15,14 @@ import os
 
 # In[2]:
 
-
+# Read the tables 
 survey_data=pd.read_csv('../survey/survey_nonvote.txt').fillna(method='ffill')
-census_data_table_14_a=pd.read_excel('../US_census/table14.xlsx',skiprows=4,skipfooter= 58,header=[0, 1],index_col=[0,1]).fillna(method='ffill')
+census_data_table_14_a=pd.read_excel('../US_census//table14.xlsx',skiprows=4,skipfooter= 58,header=[0, 1],index_col=[0,1]).fillna(method='ffill')
 
 
 # In[3]:
 
+# Read the Survey 
 
 census_data_table_14_a.name='Table 14.  Method of Voting, By Selected Characteristics'
 census_data_table_14_a.tail()
@@ -59,6 +63,7 @@ mycolors=plt.get_cmap('inferno')(np.linspace(0.3, 0.7, len(y)))
 
 # In[7]:
 
+# Plot the pia chart 
 
 pie=plt.pie(y,labels=mylabels,colors=mycolors,autopct='%1.1f%%')
 plt.legend(pie[0],mylabels, bbox_to_anchor=(1,-0.1), loc="lower right", fontsize=10, 
