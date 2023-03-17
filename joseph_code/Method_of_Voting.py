@@ -13,8 +13,8 @@ import os
 # In[2]:
 
 
-survey_data=pd.read_csv('survey_nonvote.txt').fillna(method='ffill')
-census_data_table_14_a=pd.read_excel('table14.xlsx',skiprows=4,skipfooter= 58,header=[0, 1],index_col=[0,1]).fillna(method='ffill')
+survey_data=pd.read_csv('../survey/survey_nonvote.txt').fillna(method='ffill')
+census_data_table_14_a=pd.read_excel('../US_census/table14.xlsx',skiprows=4,skipfooter= 58,header=[0, 1],index_col=[0,1]).fillna(method='ffill')
 
 
 # In[3]:
