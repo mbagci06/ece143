@@ -26,6 +26,10 @@ The folder tl_2022_us_state:
 
 * Contains the map information to create US map. The geopandas uses it.
 
+The codes:
+
+* The files with .ipynb ending have the plots which used in the presentation.  
+
 ### Python version
 
 * Python 3.9.11
